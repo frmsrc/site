@@ -1,2 +1,2 @@
-# [frmsrc](https://github.com/frmsrc) / design
-Design documentation &amp; guidance for frmsrc ui/ux.
+# [frmsrc](https://github.com/frmsrc) / docs
+Developer documentation, contribution guidelines, &amp; design guide for FrmSrc.
