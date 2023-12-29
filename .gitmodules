@@ -1,0 +1,3 @@
+[submodule "frmsrc/themes/agnes"]
+	path = frmsrc/themes/agnes
+	url = https://github.com/dchucks/agnes-hugo-theme.git
